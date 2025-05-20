@@ -1,0 +1,6 @@
+{
+  "appTitle": "when_can_we",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
