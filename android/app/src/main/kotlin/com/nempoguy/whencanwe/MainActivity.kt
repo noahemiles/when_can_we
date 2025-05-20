@@ -1,4 +1,4 @@
-package com.example.when_can_we
+package com.nempoguy.whencanwe
 
 import io.flutter.embedding.android.FlutterActivity
 
